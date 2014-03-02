@@ -1,0 +1,1 @@
+document.write('<script type="text/javascript" src="http://goto.hupu.com/?pid=56" charset="utf-8">this.src=this.src+"&.rt="+new Date().getTime();</script>');
